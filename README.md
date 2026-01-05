@@ -4,8 +4,8 @@ Análisis estadístico inferencial para identificar factores determinantes en la
 
 ### 📓 Archivos del Proyecto
 Este repositorio contiene dos versiones del análisis:
-* [**📄 Ver Análisis Completo (Con Resultados)**](./analysis_results_full.ipynb) -> **¡Empieza por aquí!** Visualiza todos los gráficos y conclusiones.
-* [**📄 Plantilla Limpia (Código)**](./analysis_template.ipynb) -> Versión sin ejecutar, ideal para replicar el estudio desde cero.
+* [**📄 Ver Análisis Completo (Con Resultados)**](analisis_satisfaccion_bancario_template.ipynb) -> **¡Empieza por aquí!** Visualiza todos los gráficos y conclusiones.
+* [**📄 Plantilla Limpia (Código)**](analisis_bancario_results_full.ipynb) -> Versión sin ejecutar, ideal para replicar el estudio desde cero.
 
 ---
 
