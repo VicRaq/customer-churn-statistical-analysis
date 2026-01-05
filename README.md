@@ -35,4 +35,4 @@ Este repositorio contiene dos versiones del análisis:
 4.  Carga el dataset ubicado en la carpeta `/data`.
 
 ---
-**Autor:** [Tu Nombre] | [Enlace a tu LinkedIn]
+**Autor:** Víctor Raquileo Rueda
