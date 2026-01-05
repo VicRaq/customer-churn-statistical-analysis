@@ -15,9 +15,9 @@ Este repositorio contiene dos versiones del análisis:
 * Identificar patrones de comportamiento en usuarios propensos a abandonar el servicio.
 
 ### 🔍 Hallazgos Estadísticos Visuales
-| Matriz de Correlación | Test de Normalidad (Q-Q Plot) |
+| Histograma Desarrollado | Test de Normalidad (Q-Q Plot) |
 | :---: | :---: |
-| <img src="./img/heatmap_correlacion.png" width="400"> | <img src="./img/qqplot_normality.png" width="400"> |
+| <img src="./img/histograma.jpg" width="400"> | <img src="./img/qqplot.jpg" width="400"> |
 *(El análisis de normalidad confirmó distribuciones no paramétricas en variables clave, guiando la selección de tests posteriores)*
 
 ---
