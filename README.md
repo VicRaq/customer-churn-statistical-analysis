@@ -34,5 +34,6 @@ Este repositorio contiene dos versiones del análisis:
 3.  Abre el archivo `analysis_template.ipynb` en Jupyter Notebook o VS Code.
 4.  Carga el dataset ubicado en la carpeta `/data`.
 
+Nota sobre los Datos: El dataset original utilizado para este análisis fue de uso académico privado. Se adjunta el notebook con los resultados renderizados para demostrar el proceso y la lógica, aunque el código no es ejecutable sin la fuente original.
 ---
 **Autor:** Víctor Raquileo Rueda
